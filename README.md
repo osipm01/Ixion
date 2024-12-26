@@ -11,12 +11,12 @@ Multi-paradigm compiled programming language for the jvm platform.
 
 Hello World in Ixion:
 ```scala
-def main => print("Hello everyone!");
+def main => print("Hello World!");
 ```
 or:
 ```scala
 def main(args: String[]) {
-   println("Hello World");
+   println("Hello World!");
 }
 ```
 
