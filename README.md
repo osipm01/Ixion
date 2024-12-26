@@ -10,7 +10,10 @@ Multi-paradigm compiled programming language for the jvm platform.
 > Before installing the language, install jdk.
 
 Hello World in Ixion:
-
+```scala
+def main => print("Hello everyone!");
+```
+or:
 ```scala
 def main(args: String[]) {
    println("Hello World");
